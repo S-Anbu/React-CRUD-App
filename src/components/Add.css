@@ -1,0 +1,12 @@
+form {
+    @apply flex flex-col 
+}
+form input{
+    @apply outline-none rounded px-4
+}
+form label{
+    @apply font-bold
+}
+form div{
+    @apply py-5
+}

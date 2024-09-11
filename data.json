@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Leanne Graham",
+      "username": "Bretg",
+      "email": "Sincere@april.biz",
+      "phone": "9543265985",
+      "website": "hildegard.org"
+    },
+    {
+      "id": "2",
+      "name": "Anton",
+      "username": "Jejo",
+      "email": "Jejo@april.biz",
+      "phone": "8543265985",
+      "website": "hildegard.org"
+    },
+    {
+      "id": "3",
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "6543265985",
+      "website": "ramiro.info"
+    },
+    {
+      "id": "4",
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "7543265985",
+      "website": "kale.biz"
+    },
+    {
+      "id": "5",
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "9543265985",
+      "website": "demarco.info"
+    }
+  ]
+}
