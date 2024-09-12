@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Leanne Graham",
-      "username": "Bretg",
+      "username": "Bret",
       "email": "Sincere@april.biz",
       "phone": "9543265985",
       "website": "hildegard.org"
@@ -39,6 +39,22 @@
       "email": "Lucio_Hettinger@annie.ca",
       "phone": "9543265985",
       "website": "demarco.info"
+    },
+    {
+      "id": "6",
+      "name": "anbu",
+      "username": "Bretg",
+      "email": "anbarasans750@gmail.com",
+      "phone": "33133211333",
+      "website": "funmalan"
+    },
+    {
+      "id": "7",
+      "name": "anbu",
+      "username": "Bretg",
+      "email": "anbarasans750@gmail.com",
+      "phone": "33133211333",
+      "website": "funmalan"
     }
   ]
 }
